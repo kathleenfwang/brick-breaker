@@ -1,4 +1,4 @@
-Classic brick breaker game. 
+# Classic brick breaker game. 
 
 Written in JS/HTML/CSS. 
  
