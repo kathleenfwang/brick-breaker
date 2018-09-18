@@ -2,4 +2,4 @@
 
 Written in JS/HTML/CSS. 
  
-View the live game  [here.](https://brickbreaker--kathleenwang.repl.co/)
+View the live game: [https://brickbreaker--kathleenwang.repl.co/](https://brickbreaker--kathleenwang.repl.co/)
